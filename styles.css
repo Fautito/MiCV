@@ -1,11 +1,14 @@
 body{
     background-color: lightblue;
 }
-.fondo{
-    position: relative;
-    height: 100%;
-    width: 100%;
-    background-color: red;
-    background: fixed;
+section{
+    height:300px;
+}
 
+.section1{
+    background-color: black;
+}
+
+.section2{
+    background-color: grey;
 }
